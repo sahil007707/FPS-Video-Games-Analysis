@@ -45,5 +45,5 @@ Discover the world of First-Person Shooter (FPS) video games with data! This pro
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/sahil007707/fps-games-analysis.git
+   git clone https://github.com/sahil007707/FPS-video-games-analysis.git
    cd fps-games-analysis
